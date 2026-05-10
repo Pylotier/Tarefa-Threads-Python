@@ -20,14 +20,6 @@ def operacao(param):
     valor: int = [0]*5
 
     n1: int = 0
-    # n2: int = 0
-    # n3: int = 0
-    # n4: int = 0
-    # n5: int = 0
-    # n2 = random.randint(1, 100)
-    # n3 = random.randint(1, 100)
-    # n4 = random.randint(1, 100)
-    # n5 = random.randint(1, 100)
 
     for j in range (5):
         n1 = random.randint(1, 100)
