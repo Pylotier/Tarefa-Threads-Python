@@ -1,3 +1,3 @@
 Author: Marcos de Melo Mario
 
-Atividades de threads com Python
+Atividade de threads com Python
